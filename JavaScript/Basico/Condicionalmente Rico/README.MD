@@ -31,6 +31,3 @@ Claro, aqui está a tabela com as entradas e saídas solicitadas:
 |---------|------------------------------------------------|
 | 300     | Saque realizado com sucesso. Novo saldo: 100   |
 | 200     |                                                |
-
-
-Se precisar de mais alguma coisa ou tiver alguma dúvida, é só me falar!
