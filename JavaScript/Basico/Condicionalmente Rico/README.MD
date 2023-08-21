@@ -20,7 +20,7 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 Claro, aqui está a tabela com as entradas e saídas solicitadas:
-|---------|------------------------------------------------|
+
 | Entrada | Saída                                          |
 |---------|------------------------------------------------|
 | 1000    | Saque realizado com sucesso! Novo saldo: 800   |
@@ -31,6 +31,6 @@ Claro, aqui está a tabela com as entradas e saídas solicitadas:
 |---------|------------------------------------------------|
 | 300     | Saque realizado com sucesso. Novo saldo: 100   |
 | 200     |                                                |
-|---------|------------------------------------------------|
+
 
 Se precisar de mais alguma coisa ou tiver alguma dúvida, é só me falar!
