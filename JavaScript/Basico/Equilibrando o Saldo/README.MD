@@ -17,8 +17,8 @@ Saída
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-| Entrada         | Saída Saldo Atualizado |
-|-----------------|------------------------|
-|  1000 500  200  |      1300.0            |
-|   100 10   10   |        60.0            |
-|  4000 1500 200  |      5300.0            |
+| Entrada             | Saída Saldo Atualizado |
+|---------------------|------------------------|
+|  1000 / 500  / 200  |      1300.0            |
+|   100 / 10   / 10   |        60.0            |
+|  4000 / 1500 / 200  |      5300.0            |
